@@ -1,2 +1,2 @@
 # chatUDP
-um chat para PC feito em Java usando protocolo UDP
+Um chat peer-to-peer feito em Java usando protocolo UDP.
